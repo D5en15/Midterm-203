@@ -6,14 +6,14 @@ export const Header = () => {
 
         width: '100%',
         padding: '2%',
-        backgroundColor: "red",
+        backgroundColor: "#EEA5A6",
         color: 'white',
         textAlign: 'center'
     }
 
     return(
         <div style={headerStyle}>
-            <h1>React With NodeJS</h1>
+            <h1>MOVIE EDIT</h1>
         </div>
     )
 }
